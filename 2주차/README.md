@@ -1,19 +1,12 @@
-# Algorithm_study
+## 2주차
+### 2023.02.21
 
-### 팀원
-김성우 김정진 김현명 동화영   
+### <코드리뷰>    
+- [SWEA 1767] 프로세서 연결하기
+- [SWEA 2115] 벌꿀채취
+- [SWEA 2383] 점심 식사시간
+- [SWEA 2477] 차량 정비소
 
-### 구성    
-
-- 2조 스터디 목표 : "SW역량테스트 A형 취득"
-
-- 문제 수 : 공통 4 ~ 5문제 + 개인 a    
-난이도 : A형 수준   
-
-- 온라인 미팅    
-일정 : 매주 화요일 22시 (zoom)    
-진행 : 1인당 1문제씩 - 문제 설명 및 풀이(랜덤)    
-
-- Problem Sites
-SWEA    
-https://swexpertacademy.com/main/main.do    
+### Reference   
+<DP 문제집>    
+https://www.acmicpc.net/workbook/view/14436
