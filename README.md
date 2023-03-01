@@ -1,4 +1,4 @@
-# Algorithm_study
+## Algorithm_study
 
 ### 팀원
 동화영 김성우 김정진 김현명   
