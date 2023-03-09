@@ -18,9 +18,9 @@ int MAP[MAX_WH][MAX_WH];
 int N; // 구슬 쏘는 횟수
 int H, W; // 벽돌판 사이즈 H*W
 
-int brick; // 구슬의 총 개수
-int curCnt; // 현 기준 남은 구슬
-int ans; // 남는 구슬의 수
+int brick; // 벽돌의 총 개수
+int curCnt; // 현 기준 남은 벽돌
+int ans; // 남는 벽돌의 수
 
 bool InRange(int y, int x) {
 	return y >= 0 && x >= 0 && y < H && x < W;
